@@ -213,3 +213,5 @@ pygame.time.delay(2000)
 
 # 게임 종료
 pygame.quit()
+
+print(10)
